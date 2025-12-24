@@ -25,3 +25,5 @@ const listingSchema = new Schema({
 
 const Listing = mongoose.model("Listing", listingSchema);
 module.exports = Listing;
+
+// Updated: 2026-01-13 14:20:51
