@@ -16,8 +16,8 @@ import random
 # ═════════════════════════════════════════════════════════════
 
 REPO_PATH = str(Path.home() / "Documents/Programming/airbnb")
-GIT_NAME = "Your Name"  # Change this to your name
-GIT_EMAIL = "your.email@gmail.com"  # Change this to your email
+GIT_NAME = "avartan007"  # Change this to your name
+GIT_EMAIL = "avartanathlay28@gmail.com"  # Change this to your email
 START_DATE = datetime.datetime(2025, 12, 24, 9, 0, 0)  # Dec 24, 2025
 END_DATE = datetime.datetime(2026, 1, 13, 17, 0, 0)  # Jan 13, 2026
 
@@ -93,6 +93,18 @@ COMMIT_MESSAGES = {
     ],
     "2026-01-08": [
         "Final Phase 1 optimizations and testing",
+    ],
+    "2026-01-09": [
+        "Add advanced features and improvements",
+    ],
+    "2026-01-10": [
+        "Refactor codebase and improve performance",
+    ],
+    "2026-01-11": [
+        "Add error handling and validation enhancements",
+    ],
+    "2026-01-12": [
+        "Final testing and code cleanup",
     ],
     "2026-01-13": [
         "Add comprehensive project documentation",
