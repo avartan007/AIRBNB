@@ -23,7 +23,6 @@ END_DATE = datetime.datetime(2026, 1, 13, 17, 0, 0)  # Jan 13, 2026
 
 # Project files to modify
 PROJECT_FILES = [
-    "CHANGELOG.md",
     "README.md",
     "package.json",
     "app.js",
